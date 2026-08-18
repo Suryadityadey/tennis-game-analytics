@@ -1,0 +1,4346 @@
+{
+  "events": [
+    {
+      "id": "sr:sport_event:61985992",
+      "start_time": "2025-07-16T15:30:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "stage": {
+          "order": 1,
+          "type": "league",
+          "phase": "regular season",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-20",
+          "year": "2025"
+        },
+        "round": {},
+        "groups": [
+          {
+            "id": "sr:league:91875",
+            "name": "Hopman Cup 2025 Group B",
+            "group_name": "B"
+          }
+        ]
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:15459",
+          "name": "Italy",
+          "country": "Italy",
+          "country_code": "ITA",
+          "abbreviation": "ITA",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:14442",
+          "name": "Croatia",
+          "country": "Croatia",
+          "country_code": "HRV",
+          "abbreviation": "CRO",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "parent",
+      "children": [
+        {
+          "id": "sr:sport_event:62011664",
+          "start_time": "2025-07-16T15:30:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:110055",
+              "name": "Bronzetti, Lucia",
+              "country": "Italy",
+              "country_code": "ITA",
+              "abbreviation": "BRO",
+              "qualifier": "home"
+            },
+            {
+              "id": "sr:competitor:50641",
+              "name": "Vekic, Donna",
+              "country": "Croatia",
+              "country_code": "HRV",
+              "abbreviation": "VEK",
+              "qualifier": "away"
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83362",
+            "name": "Center Court",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:61985992"
+        },
+        {
+          "id": "sr:sport_event:62011736",
+          "start_time": "2025-07-16T17:30:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:399637",
+              "name": "Cobolli, Flavio",
+              "country": "Italy",
+              "country_code": "ITA",
+              "abbreviation": "COB",
+              "qualifier": "home"
+            },
+            {
+              "id": "sr:competitor:226132",
+              "name": "Ajdukovic, Duje",
+              "country": "Croatia",
+              "country_code": "HRV",
+              "abbreviation": "AJD",
+              "qualifier": "away"
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83362",
+            "name": "Center Court",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:61985992"
+        },
+        {
+          "id": "sr:sport_event:62015452",
+          "start_time": "2025-07-16T20:30:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:1270708",
+              "name": "Cobolli F / Bronzetti L",
+              "abbreviation": "C/B",
+              "qualifier": "home",
+              "players": [
+                {
+                  "id": "sr:competitor:110055",
+                  "name": "Bronzetti, Lucia",
+                  "country": "Italy",
+                  "country_code": "ITA",
+                  "abbreviation": "BRO"
+                },
+                {
+                  "id": "sr:competitor:399637",
+                  "name": "Cobolli, Flavio",
+                  "country": "Italy",
+                  "country_code": "ITA",
+                  "abbreviation": "COB"
+                }
+              ]
+            },
+            {
+              "id": "sr:competitor:1262389",
+              "name": "Ajdukovic D / Vekic D",
+              "abbreviation": "A/V",
+              "qualifier": "away",
+              "players": [
+                {
+                  "id": "sr:competitor:226132",
+                  "name": "Ajdukovic, Duje",
+                  "country": "Croatia",
+                  "country_code": "HRV",
+                  "abbreviation": "AJD"
+                },
+                {
+                  "id": "sr:competitor:50641",
+                  "name": "Vekic, Donna",
+                  "country": "Croatia",
+                  "country_code": "HRV",
+                  "abbreviation": "VEK"
+                }
+              ]
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83362",
+            "name": "Center Court",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:61985992"
+        }
+      ],
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62011664",
+      "start_time": "2025-07-16T15:30:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:110055",
+          "name": "Bronzetti, Lucia",
+          "country": "Italy",
+          "country_code": "ITA",
+          "abbreviation": "BRO",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:50641",
+          "name": "Vekic, Donna",
+          "country": "Croatia",
+          "country_code": "HRV",
+          "abbreviation": "VEK",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:61985992",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62011736",
+      "start_time": "2025-07-16T17:30:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:399637",
+          "name": "Cobolli, Flavio",
+          "country": "Italy",
+          "country_code": "ITA",
+          "abbreviation": "COB",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:226132",
+          "name": "Ajdukovic, Duje",
+          "country": "Croatia",
+          "country_code": "HRV",
+          "abbreviation": "AJD",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:61985992",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62015452",
+      "start_time": "2025-07-16T20:30:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:1270708",
+          "name": "Cobolli F / Bronzetti L",
+          "abbreviation": "C/B",
+          "qualifier": "home",
+          "players": [
+            {
+              "id": "sr:competitor:110055",
+              "name": "Bronzetti, Lucia",
+              "country": "Italy",
+              "country_code": "ITA",
+              "abbreviation": "BRO"
+            },
+            {
+              "id": "sr:competitor:399637",
+              "name": "Cobolli, Flavio",
+              "country": "Italy",
+              "country_code": "ITA",
+              "abbreviation": "COB"
+            }
+          ]
+        },
+        {
+          "id": "sr:competitor:1262389",
+          "name": "Ajdukovic D / Vekic D",
+          "abbreviation": "A/V",
+          "qualifier": "away",
+          "players": [
+            {
+              "id": "sr:competitor:226132",
+              "name": "Ajdukovic, Duje",
+              "country": "Croatia",
+              "country_code": "HRV",
+              "abbreviation": "AJD"
+            },
+            {
+              "id": "sr:competitor:50641",
+              "name": "Vekic, Donna",
+              "country": "Croatia",
+              "country_code": "HRV",
+              "abbreviation": "VEK"
+            }
+          ]
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:61985992",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62003794",
+      "start_time": "2025-07-17T15:00:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "stage": {
+          "order": 1,
+          "type": "league",
+          "phase": "regular season",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-20",
+          "year": "2025"
+        },
+        "round": {},
+        "groups": [
+          {
+            "id": "sr:league:91875",
+            "name": "Hopman Cup 2025 Group B",
+            "group_name": "B"
+          }
+        ]
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:14352",
+          "name": "France",
+          "country": "France",
+          "country_code": "FRA",
+          "abbreviation": "FRA",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:14442",
+          "name": "Croatia",
+          "country": "Croatia",
+          "country_code": "HRV",
+          "abbreviation": "CRO",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83364",
+        "name": "Court 1",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "parent",
+      "children": [
+        {
+          "id": "sr:sport_event:62011818",
+          "start_time": "2025-07-17T15:00:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:46591",
+              "name": "Paquet, Chloe",
+              "country": "France",
+              "country_code": "FRA",
+              "abbreviation": "PAQ",
+              "qualifier": "home"
+            },
+            {
+              "id": "sr:competitor:50641",
+              "name": "Vekic, Donna",
+              "country": "Croatia",
+              "country_code": "HRV",
+              "abbreviation": "VEK",
+              "qualifier": "away"
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83364",
+            "name": "Court 1",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62003794"
+        },
+        {
+          "id": "sr:sport_event:62011994",
+          "start_time": "2025-07-17T16:25:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:14414",
+              "name": "Gasquet, Richard",
+              "country": "France",
+              "country_code": "FRA",
+              "abbreviation": "GAS",
+              "qualifier": "home"
+            },
+            {
+              "id": "sr:competitor:226132",
+              "name": "Ajdukovic, Duje",
+              "country": "Croatia",
+              "country_code": "HRV",
+              "abbreviation": "AJD",
+              "qualifier": "away"
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83364",
+            "name": "Court 1",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62003794"
+        },
+        {
+          "id": "sr:sport_event:62013056",
+          "start_time": "2025-07-17T19:35:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:1270582",
+              "name": "Gasquet R / Paquet C",
+              "abbreviation": "G/P",
+              "qualifier": "home",
+              "players": [
+                {
+                  "id": "sr:competitor:14414",
+                  "name": "Gasquet, Richard",
+                  "country": "France",
+                  "country_code": "FRA",
+                  "abbreviation": "GAS"
+                },
+                {
+                  "id": "sr:competitor:46591",
+                  "name": "Paquet, Chloe",
+                  "country": "France",
+                  "country_code": "FRA",
+                  "abbreviation": "PAQ"
+                }
+              ]
+            },
+            {
+              "id": "sr:competitor:1262389",
+              "name": "Ajdukovic D / Vekic D",
+              "abbreviation": "A/V",
+              "qualifier": "away",
+              "players": [
+                {
+                  "id": "sr:competitor:226132",
+                  "name": "Ajdukovic, Duje",
+                  "country": "Croatia",
+                  "country_code": "HRV",
+                  "abbreviation": "AJD"
+                },
+                {
+                  "id": "sr:competitor:50641",
+                  "name": "Vekic, Donna",
+                  "country": "Croatia",
+                  "country_code": "HRV",
+                  "abbreviation": "VEK"
+                }
+              ]
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83364",
+            "name": "Court 1",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62003794"
+        }
+      ],
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62011818",
+      "start_time": "2025-07-17T15:00:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:46591",
+          "name": "Paquet, Chloe",
+          "country": "France",
+          "country_code": "FRA",
+          "abbreviation": "PAQ",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:50641",
+          "name": "Vekic, Donna",
+          "country": "Croatia",
+          "country_code": "HRV",
+          "abbreviation": "VEK",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83364",
+        "name": "Court 1",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62003794",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62003676",
+      "start_time": "2025-07-17T15:30:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "stage": {
+          "order": 1,
+          "type": "league",
+          "phase": "regular season",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-20",
+          "year": "2025"
+        },
+        "round": {},
+        "groups": [
+          {
+            "id": "sr:league:91873",
+            "name": "Hopman Cup 2025 Group A",
+            "group_name": "A"
+          }
+        ]
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:133416",
+          "name": "Greece",
+          "country": "Greece",
+          "country_code": "GRC",
+          "abbreviation": "GRE",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:14437",
+          "name": "Spain",
+          "country": "Spain",
+          "country_code": "ESP",
+          "abbreviation": "SPA",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "parent",
+      "children": [
+        {
+          "id": "sr:sport_event:62011806",
+          "start_time": "2025-07-17T15:30:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:45139",
+              "name": "Papamichail, Despina",
+              "country": "Greece",
+              "country_code": "GRC",
+              "abbreviation": "PAP",
+              "qualifier": "home"
+            },
+            {
+              "id": "sr:competitor:183861",
+              "name": "Bassols Ribera, Marina",
+              "country": "Spain",
+              "country_code": "ESP",
+              "abbreviation": "BAS",
+              "qualifier": "away"
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83362",
+            "name": "Center Court",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62003676"
+        },
+        {
+          "id": "sr:sport_event:62011816",
+          "start_time": "2025-07-17T17:05:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:122366",
+              "name": "Tsitsipas, Stefanos",
+              "country": "Greece",
+              "country_code": "GRC",
+              "abbreviation": "TSI",
+              "qualifier": "home"
+            },
+            {
+              "id": "sr:competitor:16720",
+              "name": "Bautista Agut, Roberto",
+              "country": "Spain",
+              "country_code": "ESP",
+              "abbreviation": "BAU",
+              "qualifier": "away"
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83362",
+            "name": "Center Court",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62003676"
+        },
+        {
+          "id": "sr:sport_event:62013052",
+          "start_time": "2025-07-17T19:55:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:964403",
+              "name": "Tsitsipas S / Papamichail D",
+              "country": "Greece",
+              "country_code": "GRC",
+              "abbreviation": "T/P",
+              "qualifier": "home",
+              "players": [
+                {
+                  "id": "sr:competitor:45139",
+                  "name": "Papamichail, Despina",
+                  "country": "Greece",
+                  "country_code": "GRC",
+                  "abbreviation": "PAP"
+                },
+                {
+                  "id": "sr:competitor:122366",
+                  "name": "Tsitsipas, Stefanos",
+                  "country": "Greece",
+                  "country_code": "GRC",
+                  "abbreviation": "TSI"
+                }
+              ]
+            },
+            {
+              "id": "sr:competitor:1262393",
+              "name": "Bautista Agut R / Bassols Ribera M",
+              "abbreviation": "B/B",
+              "qualifier": "away",
+              "players": [
+                {
+                  "id": "sr:competitor:183861",
+                  "name": "Bassols Ribera, Marina",
+                  "country": "Spain",
+                  "country_code": "ESP",
+                  "abbreviation": "BAS"
+                },
+                {
+                  "id": "sr:competitor:16720",
+                  "name": "Bautista Agut, Roberto",
+                  "country": "Spain",
+                  "country_code": "ESP",
+                  "abbreviation": "BAU"
+                }
+              ]
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83362",
+            "name": "Center Court",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62003676"
+        }
+      ],
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62011806",
+      "start_time": "2025-07-17T15:30:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:45139",
+          "name": "Papamichail, Despina",
+          "country": "Greece",
+          "country_code": "GRC",
+          "abbreviation": "PAP",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:183861",
+          "name": "Bassols Ribera, Marina",
+          "country": "Spain",
+          "country_code": "ESP",
+          "abbreviation": "BAS",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62003676",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62011994",
+      "start_time": "2025-07-17T16:25:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:14414",
+          "name": "Gasquet, Richard",
+          "country": "France",
+          "country_code": "FRA",
+          "abbreviation": "GAS",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:226132",
+          "name": "Ajdukovic, Duje",
+          "country": "Croatia",
+          "country_code": "HRV",
+          "abbreviation": "AJD",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83364",
+        "name": "Court 1",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62003794",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62011816",
+      "start_time": "2025-07-17T17:05:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:122366",
+          "name": "Tsitsipas, Stefanos",
+          "country": "Greece",
+          "country_code": "GRC",
+          "abbreviation": "TSI",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:16720",
+          "name": "Bautista Agut, Roberto",
+          "country": "Spain",
+          "country_code": "ESP",
+          "abbreviation": "BAU",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62003676",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62013056",
+      "start_time": "2025-07-17T19:35:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:1270582",
+          "name": "Gasquet R / Paquet C",
+          "abbreviation": "G/P",
+          "qualifier": "home",
+          "players": [
+            {
+              "id": "sr:competitor:14414",
+              "name": "Gasquet, Richard",
+              "country": "France",
+              "country_code": "FRA",
+              "abbreviation": "GAS"
+            },
+            {
+              "id": "sr:competitor:46591",
+              "name": "Paquet, Chloe",
+              "country": "France",
+              "country_code": "FRA",
+              "abbreviation": "PAQ"
+            }
+          ]
+        },
+        {
+          "id": "sr:competitor:1262389",
+          "name": "Ajdukovic D / Vekic D",
+          "abbreviation": "A/V",
+          "qualifier": "away",
+          "players": [
+            {
+              "id": "sr:competitor:226132",
+              "name": "Ajdukovic, Duje",
+              "country": "Croatia",
+              "country_code": "HRV",
+              "abbreviation": "AJD"
+            },
+            {
+              "id": "sr:competitor:50641",
+              "name": "Vekic, Donna",
+              "country": "Croatia",
+              "country_code": "HRV",
+              "abbreviation": "VEK"
+            }
+          ]
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83364",
+        "name": "Court 1",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62003794",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62013052",
+      "start_time": "2025-07-17T19:55:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:964403",
+          "name": "Tsitsipas S / Papamichail D",
+          "country": "Greece",
+          "country_code": "GRC",
+          "abbreviation": "T/P",
+          "qualifier": "home",
+          "players": [
+            {
+              "id": "sr:competitor:45139",
+              "name": "Papamichail, Despina",
+              "country": "Greece",
+              "country_code": "GRC",
+              "abbreviation": "PAP"
+            },
+            {
+              "id": "sr:competitor:122366",
+              "name": "Tsitsipas, Stefanos",
+              "country": "Greece",
+              "country_code": "GRC",
+              "abbreviation": "TSI"
+            }
+          ]
+        },
+        {
+          "id": "sr:competitor:1262393",
+          "name": "Bautista Agut R / Bassols Ribera M",
+          "abbreviation": "B/B",
+          "qualifier": "away",
+          "players": [
+            {
+              "id": "sr:competitor:183861",
+              "name": "Bassols Ribera, Marina",
+              "country": "Spain",
+              "country_code": "ESP",
+              "abbreviation": "BAS"
+            },
+            {
+              "id": "sr:competitor:16720",
+              "name": "Bautista Agut, Roberto",
+              "country": "Spain",
+              "country_code": "ESP",
+              "abbreviation": "BAU"
+            }
+          ]
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62003676",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62002570",
+      "start_time": "2025-07-18T15:00:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "stage": {
+          "order": 1,
+          "type": "league",
+          "phase": "regular season",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-20",
+          "year": "2025"
+        },
+        "round": {},
+        "groups": [
+          {
+            "id": "sr:league:91873",
+            "name": "Hopman Cup 2025 Group A",
+            "group_name": "A"
+          }
+        ]
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:14577",
+          "name": "Canada",
+          "country": "Canada",
+          "country_code": "CAN",
+          "abbreviation": "CAN",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:14437",
+          "name": "Spain",
+          "country": "Spain",
+          "country_code": "ESP",
+          "abbreviation": "SPA",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83364",
+        "name": "Court 1",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "parent",
+      "children": [
+        {
+          "id": "sr:sport_event:62012304",
+          "start_time": "2025-07-18T15:00:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:217912",
+              "name": "Andreescu, Bianca",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "AND",
+              "qualifier": "home"
+            },
+            {
+              "id": "sr:competitor:183861",
+              "name": "Bassols Ribera, Marina",
+              "country": "Spain",
+              "country_code": "ESP",
+              "abbreviation": "BAS",
+              "qualifier": "away"
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83364",
+            "name": "Court 1",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62002570"
+        },
+        {
+          "id": "sr:sport_event:62012342",
+          "start_time": "2025-07-18T16:10:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:195800",
+              "name": "Auger-Aliassime, Felix",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "AUG",
+              "qualifier": "home"
+            },
+            {
+              "id": "sr:competitor:16720",
+              "name": "Bautista Agut, Roberto",
+              "country": "Spain",
+              "country_code": "ESP",
+              "abbreviation": "BAU",
+              "qualifier": "away"
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83364",
+            "name": "Court 1",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62002570"
+        },
+        {
+          "id": "sr:sport_event:62013098",
+          "start_time": "2025-07-18T19:00:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:1262387",
+              "name": "Auger-Aliassime F / Andreescu B",
+              "abbreviation": "A/A",
+              "qualifier": "home",
+              "players": [
+                {
+                  "id": "sr:competitor:217912",
+                  "name": "Andreescu, Bianca",
+                  "country": "Canada",
+                  "country_code": "CAN",
+                  "abbreviation": "AND"
+                },
+                {
+                  "id": "sr:competitor:195800",
+                  "name": "Auger-Aliassime, Felix",
+                  "country": "Canada",
+                  "country_code": "CAN",
+                  "abbreviation": "AUG"
+                }
+              ]
+            },
+            {
+              "id": "sr:competitor:1262393",
+              "name": "Bautista Agut R / Bassols Ribera M",
+              "abbreviation": "B/B",
+              "qualifier": "away",
+              "players": [
+                {
+                  "id": "sr:competitor:183861",
+                  "name": "Bassols Ribera, Marina",
+                  "country": "Spain",
+                  "country_code": "ESP",
+                  "abbreviation": "BAS"
+                },
+                {
+                  "id": "sr:competitor:16720",
+                  "name": "Bautista Agut, Roberto",
+                  "country": "Spain",
+                  "country_code": "ESP",
+                  "abbreviation": "BAU"
+                }
+              ]
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83364",
+            "name": "Court 1",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62002570"
+        }
+      ],
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62012304",
+      "start_time": "2025-07-18T15:00:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:217912",
+          "name": "Andreescu, Bianca",
+          "country": "Canada",
+          "country_code": "CAN",
+          "abbreviation": "AND",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:183861",
+          "name": "Bassols Ribera, Marina",
+          "country": "Spain",
+          "country_code": "ESP",
+          "abbreviation": "BAS",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83364",
+        "name": "Court 1",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62002570",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62012066",
+      "start_time": "2025-07-18T15:25:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:110055",
+          "name": "Bronzetti, Lucia",
+          "country": "Italy",
+          "country_code": "ITA",
+          "abbreviation": "BRO",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:46591",
+          "name": "Paquet, Chloe",
+          "country": "France",
+          "country_code": "FRA",
+          "abbreviation": "PAQ",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62003790",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62003790",
+      "start_time": "2025-07-18T15:30:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "stage": {
+          "order": 1,
+          "type": "league",
+          "phase": "regular season",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-20",
+          "year": "2025"
+        },
+        "round": {},
+        "groups": [
+          {
+            "id": "sr:league:91875",
+            "name": "Hopman Cup 2025 Group B",
+            "group_name": "B"
+          }
+        ]
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:15459",
+          "name": "Italy",
+          "country": "Italy",
+          "country_code": "ITA",
+          "abbreviation": "ITA",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:14352",
+          "name": "France",
+          "country": "France",
+          "country_code": "FRA",
+          "abbreviation": "FRA",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "parent",
+      "children": [
+        {
+          "id": "sr:sport_event:62012066",
+          "start_time": "2025-07-18T15:25:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:110055",
+              "name": "Bronzetti, Lucia",
+              "country": "Italy",
+              "country_code": "ITA",
+              "abbreviation": "BRO",
+              "qualifier": "home"
+            },
+            {
+              "id": "sr:competitor:46591",
+              "name": "Paquet, Chloe",
+              "country": "France",
+              "country_code": "FRA",
+              "abbreviation": "PAQ",
+              "qualifier": "away"
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83362",
+            "name": "Center Court",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62003790"
+        },
+        {
+          "id": "sr:sport_event:62012140",
+          "start_time": "2025-07-18T17:50:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:399637",
+              "name": "Cobolli, Flavio",
+              "country": "Italy",
+              "country_code": "ITA",
+              "abbreviation": "COB",
+              "qualifier": "home"
+            },
+            {
+              "id": "sr:competitor:14414",
+              "name": "Gasquet, Richard",
+              "country": "France",
+              "country_code": "FRA",
+              "abbreviation": "GAS",
+              "qualifier": "away"
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83362",
+            "name": "Center Court",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62003790"
+        },
+        {
+          "id": "sr:sport_event:62015454",
+          "start_time": "2025-07-18T20:05:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:1270708",
+              "name": "Cobolli F / Bronzetti L",
+              "abbreviation": "C/B",
+              "qualifier": "home",
+              "players": [
+                {
+                  "id": "sr:competitor:110055",
+                  "name": "Bronzetti, Lucia",
+                  "country": "Italy",
+                  "country_code": "ITA",
+                  "abbreviation": "BRO"
+                },
+                {
+                  "id": "sr:competitor:399637",
+                  "name": "Cobolli, Flavio",
+                  "country": "Italy",
+                  "country_code": "ITA",
+                  "abbreviation": "COB"
+                }
+              ]
+            },
+            {
+              "id": "sr:competitor:1270582",
+              "name": "Gasquet R / Paquet C",
+              "abbreviation": "G/P",
+              "qualifier": "away",
+              "players": [
+                {
+                  "id": "sr:competitor:14414",
+                  "name": "Gasquet, Richard",
+                  "country": "France",
+                  "country_code": "FRA",
+                  "abbreviation": "GAS"
+                },
+                {
+                  "id": "sr:competitor:46591",
+                  "name": "Paquet, Chloe",
+                  "country": "France",
+                  "country_code": "FRA",
+                  "abbreviation": "PAQ"
+                }
+              ]
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83362",
+            "name": "Center Court",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62003790"
+        }
+      ],
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62012342",
+      "start_time": "2025-07-18T16:10:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:195800",
+          "name": "Auger-Aliassime, Felix",
+          "country": "Canada",
+          "country_code": "CAN",
+          "abbreviation": "AUG",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:16720",
+          "name": "Bautista Agut, Roberto",
+          "country": "Spain",
+          "country_code": "ESP",
+          "abbreviation": "BAU",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83364",
+        "name": "Court 1",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62002570",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62012140",
+      "start_time": "2025-07-18T17:50:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:399637",
+          "name": "Cobolli, Flavio",
+          "country": "Italy",
+          "country_code": "ITA",
+          "abbreviation": "COB",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:14414",
+          "name": "Gasquet, Richard",
+          "country": "France",
+          "country_code": "FRA",
+          "abbreviation": "GAS",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62003790",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62013098",
+      "start_time": "2025-07-18T19:00:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:1262387",
+          "name": "Auger-Aliassime F / Andreescu B",
+          "abbreviation": "A/A",
+          "qualifier": "home",
+          "players": [
+            {
+              "id": "sr:competitor:217912",
+              "name": "Andreescu, Bianca",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "AND"
+            },
+            {
+              "id": "sr:competitor:195800",
+              "name": "Auger-Aliassime, Felix",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "AUG"
+            }
+          ]
+        },
+        {
+          "id": "sr:competitor:1262393",
+          "name": "Bautista Agut R / Bassols Ribera M",
+          "abbreviation": "B/B",
+          "qualifier": "away",
+          "players": [
+            {
+              "id": "sr:competitor:183861",
+              "name": "Bassols Ribera, Marina",
+              "country": "Spain",
+              "country_code": "ESP",
+              "abbreviation": "BAS"
+            },
+            {
+              "id": "sr:competitor:16720",
+              "name": "Bautista Agut, Roberto",
+              "country": "Spain",
+              "country_code": "ESP",
+              "abbreviation": "BAU"
+            }
+          ]
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83364",
+        "name": "Court 1",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62002570",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62015454",
+      "start_time": "2025-07-18T20:05:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:1270708",
+          "name": "Cobolli F / Bronzetti L",
+          "abbreviation": "C/B",
+          "qualifier": "home",
+          "players": [
+            {
+              "id": "sr:competitor:110055",
+              "name": "Bronzetti, Lucia",
+              "country": "Italy",
+              "country_code": "ITA",
+              "abbreviation": "BRO"
+            },
+            {
+              "id": "sr:competitor:399637",
+              "name": "Cobolli, Flavio",
+              "country": "Italy",
+              "country_code": "ITA",
+              "abbreviation": "COB"
+            }
+          ]
+        },
+        {
+          "id": "sr:competitor:1270582",
+          "name": "Gasquet R / Paquet C",
+          "abbreviation": "G/P",
+          "qualifier": "away",
+          "players": [
+            {
+              "id": "sr:competitor:14414",
+              "name": "Gasquet, Richard",
+              "country": "France",
+              "country_code": "FRA",
+              "abbreviation": "GAS"
+            },
+            {
+              "id": "sr:competitor:46591",
+              "name": "Paquet, Chloe",
+              "country": "France",
+              "country_code": "FRA",
+              "abbreviation": "PAQ"
+            }
+          ]
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62003790",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62003864",
+      "start_time": "2025-07-19T15:30:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "stage": {
+          "order": 1,
+          "type": "league",
+          "phase": "regular season",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-20",
+          "year": "2025"
+        },
+        "round": {},
+        "groups": [
+          {
+            "id": "sr:league:91873",
+            "name": "Hopman Cup 2025 Group A",
+            "group_name": "A"
+          }
+        ]
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:133416",
+          "name": "Greece",
+          "country": "Greece",
+          "country_code": "GRC",
+          "abbreviation": "GRE",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:14577",
+          "name": "Canada",
+          "country": "Canada",
+          "country_code": "CAN",
+          "abbreviation": "CAN",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "parent",
+      "children": [
+        {
+          "id": "sr:sport_event:62012504",
+          "start_time": "2025-07-19T15:30:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:45139",
+              "name": "Papamichail, Despina",
+              "country": "Greece",
+              "country_code": "GRC",
+              "abbreviation": "PAP",
+              "qualifier": "home"
+            },
+            {
+              "id": "sr:competitor:217912",
+              "name": "Andreescu, Bianca",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "AND",
+              "qualifier": "away"
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83362",
+            "name": "Center Court",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62003864"
+        },
+        {
+          "id": "sr:sport_event:62012574",
+          "start_time": "2025-07-19T16:55:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:122366",
+              "name": "Tsitsipas, Stefanos",
+              "country": "Greece",
+              "country_code": "GRC",
+              "abbreviation": "TSI",
+              "qualifier": "home"
+            },
+            {
+              "id": "sr:competitor:195800",
+              "name": "Auger-Aliassime, Felix",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "AUG",
+              "qualifier": "away"
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83362",
+            "name": "Center Court",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62003864"
+        },
+        {
+          "id": "sr:sport_event:62013136",
+          "start_time": "2025-07-19T19:30:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:964403",
+              "name": "Tsitsipas S / Papamichail D",
+              "country": "Greece",
+              "country_code": "GRC",
+              "abbreviation": "T/P",
+              "qualifier": "home",
+              "players": [
+                {
+                  "id": "sr:competitor:45139",
+                  "name": "Papamichail, Despina",
+                  "country": "Greece",
+                  "country_code": "GRC",
+                  "abbreviation": "PAP"
+                },
+                {
+                  "id": "sr:competitor:122366",
+                  "name": "Tsitsipas, Stefanos",
+                  "country": "Greece",
+                  "country_code": "GRC",
+                  "abbreviation": "TSI"
+                }
+              ]
+            },
+            {
+              "id": "sr:competitor:1262387",
+              "name": "Auger-Aliassime F / Andreescu B",
+              "abbreviation": "A/A",
+              "qualifier": "away",
+              "players": [
+                {
+                  "id": "sr:competitor:217912",
+                  "name": "Andreescu, Bianca",
+                  "country": "Canada",
+                  "country_code": "CAN",
+                  "abbreviation": "AND"
+                },
+                {
+                  "id": "sr:competitor:195800",
+                  "name": "Auger-Aliassime, Felix",
+                  "country": "Canada",
+                  "country_code": "CAN",
+                  "abbreviation": "AUG"
+                }
+              ]
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83362",
+            "name": "Center Court",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62003864"
+        }
+      ],
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62012504",
+      "start_time": "2025-07-19T15:30:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:45139",
+          "name": "Papamichail, Despina",
+          "country": "Greece",
+          "country_code": "GRC",
+          "abbreviation": "PAP",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:217912",
+          "name": "Andreescu, Bianca",
+          "country": "Canada",
+          "country_code": "CAN",
+          "abbreviation": "AND",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62003864",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62012574",
+      "start_time": "2025-07-19T16:55:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:122366",
+          "name": "Tsitsipas, Stefanos",
+          "country": "Greece",
+          "country_code": "GRC",
+          "abbreviation": "TSI",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:195800",
+          "name": "Auger-Aliassime, Felix",
+          "country": "Canada",
+          "country_code": "CAN",
+          "abbreviation": "AUG",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62003864",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62013136",
+      "start_time": "2025-07-19T19:30:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:964403",
+          "name": "Tsitsipas S / Papamichail D",
+          "country": "Greece",
+          "country_code": "GRC",
+          "abbreviation": "T/P",
+          "qualifier": "home",
+          "players": [
+            {
+              "id": "sr:competitor:45139",
+              "name": "Papamichail, Despina",
+              "country": "Greece",
+              "country_code": "GRC",
+              "abbreviation": "PAP"
+            },
+            {
+              "id": "sr:competitor:122366",
+              "name": "Tsitsipas, Stefanos",
+              "country": "Greece",
+              "country_code": "GRC",
+              "abbreviation": "TSI"
+            }
+          ]
+        },
+        {
+          "id": "sr:competitor:1262387",
+          "name": "Auger-Aliassime F / Andreescu B",
+          "abbreviation": "A/A",
+          "qualifier": "away",
+          "players": [
+            {
+              "id": "sr:competitor:217912",
+              "name": "Andreescu, Bianca",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "AND"
+            },
+            {
+              "id": "sr:competitor:195800",
+              "name": "Auger-Aliassime, Felix",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "AUG"
+            }
+          ]
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62003864",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62161808",
+      "start_time": "2025-07-20T15:30:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:110055",
+          "name": "Bronzetti, Lucia",
+          "country": "Italy",
+          "country_code": "ITA",
+          "abbreviation": "BRO",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:217912",
+          "name": "Andreescu, Bianca",
+          "country": "Canada",
+          "country_code": "CAN",
+          "abbreviation": "AND",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62169256",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62169256",
+      "start_time": "2025-07-20T15:30:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "stage": {
+          "order": 1,
+          "type": "cup",
+          "phase": "playoffs",
+          "start_date": "2025-07-19",
+          "end_date": "2025-07-20",
+          "year": "2025"
+        },
+        "round": {
+          "name": "final"
+        },
+        "groups": [
+          {
+            "id": "sr:cup:178619",
+            "name": "Hopman Cup 2025, Final"
+          }
+        ]
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:15459",
+          "name": "Italy",
+          "country": "Italy",
+          "country_code": "ITA",
+          "abbreviation": "ITA",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:14577",
+          "name": "Canada",
+          "country": "Canada",
+          "country_code": "CAN",
+          "abbreviation": "CAN",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "parent",
+      "children": [
+        {
+          "id": "sr:sport_event:62161808",
+          "start_time": "2025-07-20T15:30:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:110055",
+              "name": "Bronzetti, Lucia",
+              "country": "Italy",
+              "country_code": "ITA",
+              "abbreviation": "BRO",
+              "qualifier": "home"
+            },
+            {
+              "id": "sr:competitor:217912",
+              "name": "Andreescu, Bianca",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "AND",
+              "qualifier": "away"
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83362",
+            "name": "Center Court",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62169256"
+        },
+        {
+          "id": "sr:sport_event:62161810",
+          "start_time": "2025-07-20T17:00:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:399637",
+              "name": "Cobolli, Flavio",
+              "country": "Italy",
+              "country_code": "ITA",
+              "abbreviation": "COB",
+              "qualifier": "home"
+            },
+            {
+              "id": "sr:competitor:195800",
+              "name": "Auger-Aliassime, Felix",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "AUG",
+              "qualifier": "away"
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83362",
+            "name": "Center Court",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62169256"
+        },
+        {
+          "id": "sr:sport_event:62161812",
+          "start_time": "2025-07-20T20:00:00+00:00",
+          "start_time_confirmed": true,
+          "competitors": [
+            {
+              "id": "sr:competitor:1270708",
+              "name": "Cobolli F / Bronzetti L",
+              "abbreviation": "C/B",
+              "qualifier": "home",
+              "players": [
+                {
+                  "id": "sr:competitor:110055",
+                  "name": "Bronzetti, Lucia",
+                  "country": "Italy",
+                  "country_code": "ITA",
+                  "abbreviation": "BRO"
+                },
+                {
+                  "id": "sr:competitor:399637",
+                  "name": "Cobolli, Flavio",
+                  "country": "Italy",
+                  "country_code": "ITA",
+                  "abbreviation": "COB"
+                }
+              ]
+            },
+            {
+              "id": "sr:competitor:1262387",
+              "name": "Auger-Aliassime F / Andreescu B",
+              "abbreviation": "A/A",
+              "qualifier": "away",
+              "players": [
+                {
+                  "id": "sr:competitor:217912",
+                  "name": "Andreescu, Bianca",
+                  "country": "Canada",
+                  "country_code": "CAN",
+                  "abbreviation": "AND"
+                },
+                {
+                  "id": "sr:competitor:195800",
+                  "name": "Auger-Aliassime, Felix",
+                  "country": "Canada",
+                  "country_code": "CAN",
+                  "abbreviation": "AUG"
+                }
+              ]
+            }
+          ],
+          "venue": {
+            "id": "sr:venue:83362",
+            "name": "Center Court",
+            "city_name": "Bari",
+            "city_id": "sr:city:634",
+            "country_name": "Italy",
+            "country_code": "ITA",
+            "timezone": "Europe/Rome"
+          },
+          "type": "child",
+          "parent_id": "sr:sport_event:62169256"
+        }
+      ],
+      "estimated": false
+    },
+    {
+      "id": "sr:sport_event:62161810",
+      "start_time": "2025-07-20T17:00:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:399637",
+          "name": "Cobolli, Flavio",
+          "country": "Italy",
+          "country_code": "ITA",
+          "abbreviation": "COB",
+          "qualifier": "home"
+        },
+        {
+          "id": "sr:competitor:195800",
+          "name": "Auger-Aliassime, Felix",
+          "country": "Canada",
+          "country_code": "CAN",
+          "abbreviation": "AUG",
+          "qualifier": "away"
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62169256",
+      "estimated": true
+    },
+    {
+      "id": "sr:sport_event:62161812",
+      "start_time": "2025-07-20T20:00:00+00:00",
+      "start_time_confirmed": true,
+      "sport_event_context": {
+        "sport": {
+          "id": "sr:sport:5",
+          "name": "Tennis"
+        },
+        "category": {
+          "id": "sr:category:181",
+          "name": "Hopman Cup"
+        },
+        "competition": {
+          "id": "sr:competition:620",
+          "name": "Hopman Cup",
+          "type": "mixed",
+          "gender": "mixed"
+        },
+        "season": {
+          "id": "sr:season:128911",
+          "name": "Hopman Cup 2025",
+          "start_date": "2025-07-16",
+          "end_date": "2025-07-21",
+          "year": "2025",
+          "competition_id": "sr:competition:620"
+        },
+        "round": {},
+        "mode": {
+          "best_of": 3
+        }
+      },
+      "coverage": {
+        "type": "sport_event",
+        "sport_event_properties": {
+          "enhanced_stats": false,
+          "detailed_serve_outcomes": false,
+          "play_by_play": false
+        }
+      },
+      "competitors": [
+        {
+          "id": "sr:competitor:1270708",
+          "name": "Cobolli F / Bronzetti L",
+          "abbreviation": "C/B",
+          "qualifier": "home",
+          "players": [
+            {
+              "id": "sr:competitor:110055",
+              "name": "Bronzetti, Lucia",
+              "country": "Italy",
+              "country_code": "ITA",
+              "abbreviation": "BRO"
+            },
+            {
+              "id": "sr:competitor:399637",
+              "name": "Cobolli, Flavio",
+              "country": "Italy",
+              "country_code": "ITA",
+              "abbreviation": "COB"
+            }
+          ]
+        },
+        {
+          "id": "sr:competitor:1262387",
+          "name": "Auger-Aliassime F / Andreescu B",
+          "abbreviation": "A/A",
+          "qualifier": "away",
+          "players": [
+            {
+              "id": "sr:competitor:217912",
+              "name": "Andreescu, Bianca",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "AND"
+            },
+            {
+              "id": "sr:competitor:195800",
+              "name": "Auger-Aliassime, Felix",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "AUG"
+            }
+          ]
+        }
+      ],
+      "venue": {
+        "id": "sr:venue:83362",
+        "name": "Center Court",
+        "city_name": "Bari",
+        "city_id": "sr:city:634",
+        "country_name": "Italy",
+        "country_code": "ITA",
+        "timezone": "Europe/Rome"
+      },
+      "channels": [
+        {
+          "name": "SRF zwei HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "Eurosport 2 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "Eurosport 1 UK HD - Eurobird 1 / Astra 2A/2B/2D (28.2E)"
+        },
+        {
+          "name": "V Sport 1 HD - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Supertennis HD - Hot Bird 1/2/3/4/6 (13.0E)"
+        },
+        {
+          "name": "EUROSPORT 1 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 FR - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "EUROSPORT 2 DE HD - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "ESPN+ AR South America - (95.0W)"
+        },
+        {
+          "name": "EUROSPORT 2 ES - Astra 1C-1H / 2C (19.2E)"
+        },
+        {
+          "name": "Arena Sport 1 HD CZ - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport 1 HD (F) - Thor 2/3 (1.0W)"
+        },
+        {
+          "name": "Eurosport Norge HD - Thor 2/3 (1.0W)"
+        }
+      ],
+      "type": "child",
+      "parent_id": "sr:sport_event:62169256",
+      "estimated": true
+    }
+  ]
+}

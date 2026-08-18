@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "event_id": "sr:sport_event:61985992",
+      "status": "closed",
+      "match_status": "ended",
+      "home_score": 2,
+      "away_score": 1,
+      "winner_id": "sr:competitor:15459"
+    },
+    {
+      "event_id": "sr:sport_event:62011664",
+      "status": "closed",
+      "match_status": "ended",
+      "home_score": 2,
+      "away_score": 1,
+      "winner_id": "sr:competitor:110055"
+    }
+  ]
+}

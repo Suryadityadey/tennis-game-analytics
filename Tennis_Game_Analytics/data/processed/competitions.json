@@ -1,0 +1,18 @@
+[
+    {
+        "competition_id": "sr:competition:620",
+        "competition_name": "Hopman Cup",
+        "parent_id": null,
+        "type": "mixed",
+        "gender": "mixed",
+        "category_id": "sr:category:181"
+    },
+    {
+        "competition_id": "sr:competition:660",
+        "competition_name": "World Team Cup",
+        "parent_id": null,
+        "type": "mixed",
+        "gender": "men",
+        "category_id": "sr:category:3"
+    }
+]
